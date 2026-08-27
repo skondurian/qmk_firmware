@@ -36,3 +36,5 @@
         { 77 }
 
 #endif
+
+#define TAPPING_TOGGLE 2
